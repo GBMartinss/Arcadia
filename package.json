@@ -1,0 +1,27 @@
+{
+  "name": "arcadia",
+  "version": "1.0.0",
+  "description": "Plataforma Arcadia - Arte, Mood & Jogos",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GBMartinss/Arcadia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GBMartinss/Arcadia/issues"
+  },
+  "homepage": "https://github.com/GBMartinss/Arcadia#readme",
+  "devDependencies": {
+    "electron": "^45.3.0"
+  }
+}
